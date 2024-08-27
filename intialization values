@@ -1,0 +1,11 @@
+import java.io.*;
+class Main{
+    public static void main(String args[]){
+        int x=7;
+        long y=x;
+        float z=y;
+        System.out.println("x value is"+x);
+        System.out.println("y value is"+y);
+        System.out.println("z value is"+z);
+    }
+}
