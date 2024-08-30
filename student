@@ -1,0 +1,14 @@
+import java.io.*;
+public class Main{
+  public static void main(String args[]) {
+    System.out.print("\t\t\t\t Students Detalis\t");
+    System.out.println("Name:P.Yamini");
+    System.out.print("\t\t\t\t Reg.no:23K61A4752");
+    System.out.println("\tFather name:P.Ramesh");
+    System.out.print("\t\t\t\t Aadhar no:9536 3574 4565");
+    System.out.println("\tOccupation:Farmaer");
+    System.out.print("\t\t\t\t D.O.B:09/02/2005");
+    System.out.println("\tParent mobile no:9515137044");
+    System.out.print("\t No.of subjects passed:20");
+  }
+}
